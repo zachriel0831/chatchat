@@ -1,7 +1,6 @@
-package com.zandj.chat.web.response;
+package com.zandj.chat.model.response;
 
 import lombok.Data;
-import org.springframework.http.HttpStatus;
 
 @Data
 public class Response<T> {
@@ -12,4 +11,5 @@ public class Response<T> {
     private String code;
 
     private String msg;
+
 }
