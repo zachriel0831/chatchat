@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfi
 public class ChatApplication {
 
 	public static void main(String[] args) {
+		//yes!
 		SpringApplication.run(ChatApplication.class, args);
 	}
 
