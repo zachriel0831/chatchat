@@ -10,6 +10,8 @@ class ChatApplicationTests {
 	void contextLoads() {
 
 		String a = "1234";
+		String b = "abc";
+
 		//yes yes yes
 
 	}
