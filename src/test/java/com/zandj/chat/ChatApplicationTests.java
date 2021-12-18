@@ -8,8 +8,12 @@ class ChatApplicationTests {
 
 	@Test
 	void contextLoads() {
-		String a = "123";
+
+		String a = "1234";
+		String b = "abc";
+
 		//yes yes yes
+
 	}
 
 }
