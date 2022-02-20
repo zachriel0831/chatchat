@@ -23,7 +23,7 @@ public class IndexController {
     public String index(Model model) {
 
         IndexResponse indexResponse = new IndexResponse();
-        indexResponse.setHello("hello world");
+        indexResponse.setHello("hello worlddddddssss");
 
         model.addAttribute("data", indexResponse);
 
